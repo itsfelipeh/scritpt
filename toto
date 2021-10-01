@@ -1,4 +1,4 @@
-cd /home/pi
+cd /home/hoobs
 sudo apt-get update
 sudo apt-get remove node nodejs nodejs-legacy -y
 sudo apt-get install git-core libnss-mdns libavahi-compat-libdnssd-dev -y
